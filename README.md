@@ -23,7 +23,7 @@
 <img align="left" src="https://skillicons.dev/icons?i=angular,react"/><br><br><br><br><br><br>
 <!--Languages-->
 <div align="center">
-<img width="300" height="100" src="https://github-readme-stats.vercel.app/api?username=victorgustavodev&show_icons=true&hide_border=true&theme=dark" />
-<img width="300" height="100"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=victorgustavodev&layout=compact&langs_count=7&theme=dark"/>
+<img width="350" height="150" src="https://github-readme-stats.vercel.app/api?username=victorgustavodev&show_icons=true&hide_border=true&theme=dark" />
+<img width="300" height="150"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=victorgustavodev&layout=compact&langs_count=7&theme=dark"/>
 </div>
 
