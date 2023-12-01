@@ -6,7 +6,6 @@
 <img align="right" width="300" src="https://i.giphy.com/media/3orif0rjs49gsPWg1y/giphy.webp"/>
 <!--GIF-->
 
-
 <!--Social Media-->
 <h3 align ="left">💬 Connect with me:</h3>
 <a href="https://www.linkedin.com/in/victor-gustavo-000460287/"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg" alt="Yu Shi | LinkedIn" width="25px"/></a>
