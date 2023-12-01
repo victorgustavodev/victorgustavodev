@@ -3,7 +3,7 @@
 <!--Typing-->
 
 <!--GIF-->
-<img align="right" src="https://i.giphy.com/media/3orif0rjs49gsPWg1y/giphy.webp"/>
+<img align="right" width="400" src="https://i.giphy.com/media/3orif0rjs49gsPWg1y/giphy.webp"/>
 <!--GIF-->
 
 
