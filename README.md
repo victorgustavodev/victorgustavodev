@@ -20,7 +20,7 @@
 <img align ="left" src="https://skillicons.dev/icons?i=html,css,js,svelte,figma,vscode,git,linux"/><br>
 
 <h3 align="left"> <br>📚 Studying languages and frameworks:</h3>
-<img align="left" src="https://skillicons.dev/icons?i=angular,react"/><br><br><br><br><br><br>
+<img align="left" src="https://skillicons.dev/icons?i=angular,react"/><br><br><br><br>
 <!--Languages-->
 <div align="center">
 <img width="350" height="150" src="https://github-readme-stats.vercel.app/api?username=victorgustavodev&show_icons=true&hide_border=true&theme=dark" />
