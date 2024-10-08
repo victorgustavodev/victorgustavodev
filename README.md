@@ -16,5 +16,4 @@
 <a href="mailto:victorgustavodev@gmail.com"><img  src="https://www.svgrepo.com/show/349379/gmail-old.svg" alt="Yu Shi | LinkedIn" width="30px"/></a>
 
 </div>
-
 <!--https://skillicons.dev/icons?i=mysql, react
