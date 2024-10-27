@@ -5,9 +5,9 @@
 <img width="350" height="150" src="https://github-readme-stats.vercel.app/api?username=victorgustavodev&show_icons=true&hide_border=true&theme=dark" />
 <img width="300" height="150"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=victorgustavodev&layout=compact&langs_count=7&theme=dark"/>
 <h3 >📚 Stacks: </h3>
-<img src="https://skillicons.dev/icons?i=js,typescript,react,nodejs,mysql"/>
+<img src="https://skillicons.dev/icons?i=js,typescript,react"/>
 <h3 >📚 Style: </h3>
-<img src="https://skillicons.dev/icons?i=css,bootstrap,tailwind,sass"/>
+<img src="https://skillicons.dev/icons?i=css,mui,tailwind,sass"/>
 
 <h3 align ="">💬 Connect with me:</h3>
 <a href="https://www.linkedin.com/in/victorgs-dev/"><img  src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg" alt="Yu Shi | LinkedIn" width="30px"/></a>
