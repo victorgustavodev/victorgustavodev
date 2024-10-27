@@ -1,21 +1,40 @@
-<div align="center">
 
-<h1>Hello guys, me chamo Victor Gustavo.</h1>
-<h3>Desenvolvedor Front-End</h3>
-<p>Estou cursando Sistemas para Internet no IFPE. Atualmente sou freelancer, utilizando frameworks como React e Next.</p>
+# Hello, I'm Victor Gustavo 👋
 
+A passionate developer from Brazil.
+
+### About Me
+- 🔭 I'm currently working on **Front End development as a Freelancer**
+- 🌱 I'm currently learning about **Next** and **AWS**
+- 👯 I’m looking to collaborate on **Web Development Projects**
+- 👨‍💻 Find out more about me through my portfolio at **[ https://victorgs.netlify.app/ ]**
+
+### 📫 How to reach me
+- Email: victorgustavo.dev@gmail.com
+- LinkedIn: [Victor Gustavo](https://www.linkedin.com/in/victorgs-dev/)
+
+### Connect with Me:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/SudeepAcharjee5)
+
+### Languages and Tools:
+![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)
+![TypeScript](https://img.shields.io/badge/-TypeScript-05122A?style=flat&logo=typescript)
+![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)
+![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-05122A?style=flat&logo=tailwindcss)
+![NPM](https://img.shields.io/badge/-NPM-05122A?style=flat&logo=npm)
+![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)
+![HTML5](https://img.shields.io/badge/-HTML5-05122A?style=flat&logo=html5)
+![CSS3](https://img.shields.io/badge/-CSS3-05122A?style=flat&logo=css3)
+![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)
+![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)
+
+
+---
+Thanks for visiting my profile!
+
+<div>
 <img width="350" height="150" src="https://github-readme-stats.vercel.app/api?username=victorgustavodev&show_icons=true&hide_border=true&theme=dark" />
 <img width="300" height="150"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=victorgustavodev&layout=compact&langs_count=7&theme=dark"/>
-<h3 >📚 Stacks: </h3>
-<img src="https://skillicons.dev/icons?i=js,typescript,react"/>
-<h3 >📚 Style: </h3>
-<img src="https://skillicons.dev/icons?i=css,mui,tailwind,sass"/>
-
-<h3 align ="">💬 Connect with me:</h3>
-<a href="https://www.linkedin.com/in/victorgs-dev/"><img  src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg" alt="Yu Shi | LinkedIn" width="30px"/></a>
-<a href="https://www.instagram.com/victorgs03/"><img  src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/instagram.svg" alt="Yu Shi | Instagram" width="30px"/></a>
-<a href="https://api.whatsapp.com/send/?phone=5581996512724&text=+Ol%C3%A1%2C+Tudo+bem%3F&type=phone_number&app_absent=0"><img  src="https://www.svgrepo.com/show/176768/whatsapp-social-media.svg" alt="Victor | Whatsapp" width="30px"/></a>
-<a href="mailto:victorgustavodev@gmail.com"><img  src="https://www.svgrepo.com/show/349379/gmail-old.svg" alt="Yu Shi | LinkedIn" width="30px"/></a>
-
 </div>
+
 <!--https://skillicons.dev/icons?i=mysql, react
