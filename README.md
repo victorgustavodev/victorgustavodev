@@ -1,6 +1,8 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&duration=2000&pause=5000&color=F7F7F7&center=true&vCenter=true&random=false&width=435&lines=Olá+me+chamo+Victor+Gustavo+%F0%9F%91%8B)](https://git.io/typing-svg)
+<h1>Hello guys, me chamo Victor Gustavo.</h1>
+<h3>Desenvolvedor Front-End</h3>
+<p>Estou cursando Sistemas para Internet no IFPE. Atualmente sou freelancer, utilizando frameworks como React e Next.</p>
 
 <img width="350" height="150" src="https://github-readme-stats.vercel.app/api?username=victorgustavodev&show_icons=true&hide_border=true&theme=dark" />
 <img width="300" height="150"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=victorgustavodev&layout=compact&langs_count=7&theme=dark"/>
