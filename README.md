@@ -5,7 +5,7 @@ A passionate developer from Brazil.
 
 ### About Me
 - 🔭 I'm currently working on **Front End development as a Freelancer**
-- 🌱 I'm currently learning about **Next** and **AWS**
+- 🌱 I'm currently learning about **Next.JS**
 - 👯 I’m looking to collaborate on **Web Development Projects**
 - 👨‍💻 Find out more about me through my portfolio at **[ https://victorgs.netlify.app/ ]**
 
