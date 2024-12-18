@@ -4,10 +4,10 @@
 A passionate developer from Brazil.
 
 ### About Me
-- 🔭 I'm currently working on **Front End development as a Freelancer**
-- 🌱 I'm currently learning about **Next.JS**
-- 👯 I’m looking to collaborate on **Web Development Projects**
-- 👨‍💻 Find out more about me through my portfolio at **[ https://victorgs.netlify.app/ ]**
+- 🔭 I'm currently working on **Freelance web developer.**
+- 🌱 I'm currently learning about **Cloud and Security.**
+- 👯 I’m looking to collaborate on **Web development projects.**
+- 👨‍💻 Find out more about me through my portfolio at **[ https://victorgs.netlify.app/ ].**
 
 ### 📫 How to reach me
 - Email: victorgustavo.dev@gmail.com
