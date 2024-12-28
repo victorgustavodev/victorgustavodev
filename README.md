@@ -21,11 +21,11 @@
 
 Meu nome é Victor Gustavo. Atualmente sou freelancer como Desenvolvedor Frontend e UI/UX Designer desde 2023. No tempo livre costumo assistir futebol e curtir uma praia.
 
-Minha primeira experiência com código foi em 2022 quando comecei a cursar Desenvolvimento de Sistemas na Escola Técnica Estadual. Desde de muito novo, sempre tive afinidade com tecnologia e me senti em "casa" ao encontrar a área de programação. A emoção de ter criar o meu primeiro site foi incrível.
+Minha jornada na programação começou em 2020, quando iniciei o curso de Análise e Desenvolvimento de Sistemas. Desde cedo, sempre tive uma conexão especial com tecnologia, o que me fez encontrar na programação uma verdadeira sensação de pertencimento. Cada linha de código escrita fortalece minha paixão por criar soluções inovadoras e enfrentar desafios tecnológicos. Sinta-se à vontade para explorar meus projetos e acompanhar minha evolução nessa área que considero meu lugar. 🚀
 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 
-<p align="left"> 
+<p align="left" text-wrap: nowrap; > 
   Cursando Sistemas para Internet no Instituto Federal de Pernambuco. (2/6) <br>
   Formado como técnico em Desenvolvimento de sistemas pela ETE.
 </p>
