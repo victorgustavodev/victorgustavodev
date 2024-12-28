@@ -9,7 +9,7 @@
 
 [![My Skills Front-End](https://skillicons.dev/icons?i=ts,react,php,mysql,mongo,tailwindcss,bootstrap,styledcomponents,materialui,git,figma)](https://skillicons.dev)<br>
 
-👋 Olá! Me chamo Victor Gustavo. <br><br>
+👋 Olá! Me chamo Victor Gustavo.
 <p>Sou Desenvolvedor Frontend e UI/UX Designer freelancer desde 2023, apaixonado por transformar ideias em interfaces funcionais e atrativas. No meu tempo livre, gosto de assistir futebol e aproveitar a tranquilidade de uma boa praia.
 Minha jornada na programação iniciou em 2020, quando iniciei o curso de Análise e Desenvolvimento de Sistemas. </p>
 <p>Desde cedo, sempre tive uma conexão especial com tecnologia, o que me fez encontrar na programação uma verdadeira sensação de pertencimento. Cada linha de código escrita fortalece minha paixão por criar soluções inovadoras e enfrentar desafios tecnológicos. Sinta-se à vontade para explorar meus projetos e acompanhar minha evolução nessa área que considero meu lugar. 🚀</p>
