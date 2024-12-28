@@ -19,7 +19,8 @@
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)
 
-Meu nome é Victor Gustavo. Atualmente sou freelancer como Desenvolvedor Frontend e UI/UX Designer desde 2023. No tempo livre costumo assistir futebol e curtir uma praia.
+👋 Olá! Meu nome é Victor Gustavo.<br><br>
+Sou Desenvolvedor Frontend e UI/UX Designer freelancer desde 2023, apaixonado por transformar ideias em interfaces funcionais e atrativas. No meu tempo livre, gosto de assistir futebol e aproveitar a tranquilidade de uma boa praia.
 
 Minha jornada na programação começou em 2020, quando iniciei o curso de Análise e Desenvolvimento de Sistemas. Desde cedo, sempre tive uma conexão especial com tecnologia, o que me fez encontrar na programação uma verdadeira sensação de pertencimento. Cada linha de código escrita fortalece minha paixão por criar soluções inovadoras e enfrentar desafios tecnológicos. Sinta-se à vontade para explorar meus projetos e acompanhar minha evolução nessa área que considero meu lugar. 🚀
 
