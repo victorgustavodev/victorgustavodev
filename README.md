@@ -7,32 +7,21 @@
 
  ## 🚀 Linguagens e ferramentas :
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)
-![TypeScript](https://img.shields.io/badge/-TypeScript-05122A?style=flat&logo=typescript)
-![PHP](https://img.shields.io/badge/-TypeScript-05122A?style=flat&logo=typescript)
-![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)
-![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-05122A?style=flat&logo=tailwindcss)
-![NPM](https://img.shields.io/badge/-NPM-05122A?style=flat&logo=npm)
-![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)
-![HTML5](https://img.shields.io/badge/-HTML5-05122A?style=flat&logo=html5)
-![CSS3](https://img.shields.io/badge/-CSS3-05122A?style=flat&logo=css3)
-![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)
-![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)
+[![My Skills Front-End](https://skillicons.dev/icons?i=ts,react,php,mysql,mongo,tailwindcss,bootstrap,styledcomponents,materialui,git,figma)](https://skillicons.dev)<br>
 
 👋 Olá! Me chamo Victor Gustavo. <br><br>
-Sou Desenvolvedor Frontend e UI/UX Designer freelancer desde 2023, apaixonado por transformar ideias em interfaces funcionais e atrativas. No meu tempo livre, gosto de assistir futebol e aproveitar a tranquilidade de uma boa praia.
-
-Minha jornada na programação começou em 2020, quando iniciei o curso de Análise e Desenvolvimento de Sistemas. Desde cedo, sempre tive uma conexão especial com tecnologia, o que me fez encontrar na programação uma verdadeira sensação de pertencimento. Cada linha de código escrita fortalece minha paixão por criar soluções inovadoras e enfrentar desafios tecnológicos. Sinta-se à vontade para explorar meus projetos e acompanhar minha evolução nessa área que considero meu lugar. 🚀
+<p>Sou Desenvolvedor Frontend e UI/UX Designer freelancer desde 2023, apaixonado por transformar ideias em interfaces funcionais e atrativas. No meu tempo livre, gosto de assistir futebol e aproveitar a tranquilidade de uma boa praia.
+Minha jornada na programação iniciou em 2020, quando iniciei o curso de Análise e Desenvolvimento de Sistemas. </p>
+<p>Desde cedo, sempre tive uma conexão especial com tecnologia, o que me fez encontrar na programação uma verdadeira sensação de pertencimento. Cada linha de código escrita fortalece minha paixão por criar soluções inovadoras e enfrentar desafios tecnológicos. Sinta-se à vontade para explorar meus projetos e acompanhar minha evolução nessa área que considero meu lugar. 🚀</p>
 
 
 <p style="text-align: left; white-space: nowrap;" > 
-  Cursando Sistemas para Internet no Instituto Federal de Pernambuco. (2/6) <br>
-  Formado como técnico em Desenvolvimento de sistemas pela ETE.
+  ⏳ - Cursando Sistemas para Internet no Instituto Federal de Pernambuco. (2/6) <br>
+  ✅ - Formado como técnico em Desenvolvimento de sistemas pela ETE.
 </p>
-
+<br>
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=victorgustavodev&layout=compact&langs_count=7&bg_color=0f1a30"/>
-
 
 <!--
 # Hello, I'm Victor Gustavo 👋
