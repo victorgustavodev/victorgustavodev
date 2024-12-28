@@ -26,7 +26,7 @@ Minha jornada na programação começou em 2020, quando iniciei o curso de Anál
 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 
-<p align="left" text-wrap: nowrap; > 
+<p style="text-align: left; white-space: nowrap;" > 
   Cursando Sistemas para Internet no Instituto Federal de Pernambuco. (2/6) <br>
   Formado como técnico em Desenvolvimento de sistemas pela ETE.
 </p>
