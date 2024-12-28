@@ -19,17 +19,19 @@
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)
 
-👋 Olá! Meu nome é Victor Gustavo.<br><br>
+👋 Olá! Me chamo Victor Gustavo. <br><br>
 Sou Desenvolvedor Frontend e UI/UX Designer freelancer desde 2023, apaixonado por transformar ideias em interfaces funcionais e atrativas. No meu tempo livre, gosto de assistir futebol e aproveitar a tranquilidade de uma boa praia.
 
 Minha jornada na programação começou em 2020, quando iniciei o curso de Análise e Desenvolvimento de Sistemas. Desde cedo, sempre tive uma conexão especial com tecnologia, o que me fez encontrar na programação uma verdadeira sensação de pertencimento. Cada linha de código escrita fortalece minha paixão por criar soluções inovadoras e enfrentar desafios tecnológicos. Sinta-se à vontade para explorar meus projetos e acompanhar minha evolução nessa área que considero meu lugar. 🚀
 
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 
 <p style="text-align: left; white-space: nowrap;" > 
   Cursando Sistemas para Internet no Instituto Federal de Pernambuco. (2/6) <br>
   Formado como técnico em Desenvolvimento de sistemas pela ETE.
 </p>
+
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=victorgustavodev&layout=compact&langs_count=7&bg_color=0f1a30"/>
 
 
 <!--
