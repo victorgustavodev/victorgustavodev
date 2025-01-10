@@ -1,6 +1,6 @@
 ## Victor Gustavo
 
-### Desenvolvedor Front-End & UI/UX Designer - Freelancer
+### Desenvolvedor & UI/UX Designer - Freelancer
 
 [![Linkedin Badge](https://img.shields.io/badge/-Victor%20Gustavo-986DFF?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/victorgs-dev/)](https://www.linkedin.com/in/victorgs-dev/) 
 [![Gmail Badge](https://img.shields.io/badge/-victorgustavo.dev@gmail.com-986DFF?style=flat-square&logo=Gmail&logoColor=white&link=mailto:victorgustavo.dev@gmail.com)](mailto:victorgustavo.dev@gmail.com)
