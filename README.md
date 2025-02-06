@@ -1,6 +1,6 @@
 ## Victor Gustavo
 
-### Desenvolvedor & UI/UX Designer - Freelancer
+### Desenvolvedor & UI/UX Designer
 
 [![Linkedin Badge](https://img.shields.io/badge/-Victor%20Gustavo-986DFF?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/victorgs-dev/)](https://www.linkedin.com/in/victorgs-dev/) 
 [![Gmail Badge](https://img.shields.io/badge/-victorgustavo.dev@gmail.com-986DFF?style=flat-square&logo=Gmail&logoColor=white&link=mailto:victorgustavo.dev@gmail.com)](mailto:victorgustavo.dev@gmail.com)
@@ -10,7 +10,7 @@
 [![My Skills Front-End](https://skillicons.dev/icons?i=js,react,php,mysql,mongo,tailwindcss,bootstrap,styledcomponents,materialui,git,figma)](https://skillicons.dev)<br>
 
 👋 Olá! Me chamo Victor Gustavo.
-<p>Sou Desenvolvedor Frontend e UI/UX Designer freelancer desde 2023, apaixonado por transformar ideias em interfaces funcionais e atrativas. No meu tempo livre, gosto de assistir futebol e aproveitar a tranquilidade de uma boa praia.
+<p>Sou Desenvolvedor Full-Stack com habilidades em UI/UX Design, atueo como freelancer desde 2023, apaixonado por transformar ideias em interfaces funcionais e atrativas. No meu tempo livre, gosto de assistir futebol e ir à praia.
 Minha jornada na programação iniciou em 2020, quando iniciei o curso de Análise e Desenvolvimento de Sistemas. </p>
 <p>Desde cedo, sempre tive uma conexão especial com tecnologia, o que me fez encontrar na programação uma verdadeira sensação de pertencimento. Cada linha de código escrita fortalece minha paixão por criar soluções inovadoras e enfrentar desafios tecnológicos. Sinta-se à vontade para explorar meus projetos e acompanhar minha evolução nessa área que considero meu lugar. 🚀</p>
 
