@@ -16,7 +16,7 @@ Minha jornada na programação iniciou em 2020, quando iniciei o curso de Análi
 
 
 <p style="text-align: left; white-space: nowrap;" > 
-  ⏳ - Cursando Sistemas para Internet no Instituto Federal de Pernambuco. (2/6) <br>
+  ⏳ - Cursando Sistemas para Internet no Instituto Federal de Pernambuco. (3/6) <br>
   ✅ - Formado como técnico em Desenvolvimento de sistemas pela ETE.
 </p>
 <br>
