@@ -12,7 +12,7 @@
 👋 Olá! Me chamo Victor Gustavo.
 <p>Sou Desenvolvedor Full-Stack com habilidades em UI/UX Design, atuo como freelancer desde 2023, apaixonado por transformar ideias em interfaces funcionais e atrativas. No meu tempo livre, gosto de assistir futebol e ir à praia.
 Minha jornada na programação iniciou em 2020, quando iniciei o curso de Análise e Desenvolvimento de Sistemas. </p>
-<p>Desde cedo, sempre tive uma conexão especial com tecnologia, o que me fez encontrar na programação uma verdadeira sensação de pertencimento. Cada linha de código escrita fortalece minha paixão por criar soluções inovadoras e enfrentar desafios tecnológicos. Sinta-se à vontade para explorar meus projetos e acompanhar minha evolução nessa área que considero meu lugar. 🚀</p>
+<p>Desde cedo, percebi uma conexão especial com a tecnologia, o que me fez encontrar na programação uma verdadeira sensação de pertencimento. Cada linha de código escrita fortalece minha paixão por criar soluções inovadoras e enfrentar desafios tecnológicos. Sinta-se à vontade para explorar meus projetos e acompanhar minha evolução nessa área que considero meu lugar. 🚀</p>
 
 
 <p style="text-align: left; white-space: nowrap;" > 
