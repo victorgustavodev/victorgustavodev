@@ -11,13 +11,13 @@
 
 👋 Olá! Me chamo Victor Gustavo.
 <p>Sou Desenvolvedor Full-Stack com habilidades em UI/UX Design, atuo como freelancer desde 2023, apaixonado por transformar ideias em interfaces funcionais e atrativas. No meu tempo livre, gosto de assistir futebol e ir à praia.
-Minha jornada na programação iniciou em 2020, quando iniciei o curso de Análise e Desenvolvimento de Sistemas. </p>
+Minha jornada na programação iniciou em 2020. </p>
 <p>Desde cedo, percebi uma conexão especial com a tecnologia, o que me fez encontrar na programação uma verdadeira sensação de pertencimento. Cada linha de código escrita fortalece minha paixão por criar soluções inovadoras e enfrentar desafios tecnológicos. Sinta-se à vontade para explorar meus projetos e acompanhar minha evolução nessa área que considero meu lugar. 🚀</p>
 
 
 <p style="text-align: left; white-space: nowrap;" > 
   ⏳ - Cursando Sistemas para Internet no Instituto Federal de Pernambuco. (3/6) <br>
-  ✅ - Formado como técnico em Desenvolvimento de sistemas pela ETE.
+  ✅ - Formado como técnico em Desenvolvimento de sistemas (3/3).
 </p>
 <br>
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
