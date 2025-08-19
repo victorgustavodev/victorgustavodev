@@ -8,9 +8,9 @@
  ## 🚀 Linguagens e ferramentas :
  
 ### Front-End
-[![My Skills Front-End](https://skillicons.dev/icons?i=react,vuejs,tailwindcss,bootstrap,styledcomponents,materialui,html,css)](https://skillicons.dev)<br>
+[![My Skills Front-End](https://skillicons.dev/icons?i=react,tailwindcss,bootstrap,html,css)](https://skillicons.dev)<br>
 ### Back-End
-[![My Skills Back-End](https://skillicons.dev/icons?i=java,ts,php,next,spring,nodejs,mysql,mongo)](https://skillicons.dev)<br>
+[![My Skills Back-End](https://skillicons.dev/icons?i=java,php,ts,laravel,next,nodejs)](https://skillicons.dev)<br>
 
 👋 Olá! Me chamo Victor Gustavo.
 <p>Sou Desenvolvedor Full-Stack com habilidades em UI/UX Design, atuo como freelancer desde 2023, apaixonado por transformar ideias em interfaces funcionais e atrativas. </p>
@@ -18,7 +18,7 @@
 
 
 <p style="text-align: left; white-space: nowrap;" > 
-  ⏳ - Cursando Sistemas para Internet no Instituto Federal de Pernambuco. (3/6) <br>
+  ⏳ - Cursando Sistemas para Internet no Instituto Federal de Pernambuco. (4/6) <br>
   ✅ - Formado como técnico em Desenvolvimento de sistemas (3/3).
 </p>
 <br>
