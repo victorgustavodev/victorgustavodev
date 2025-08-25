@@ -7,7 +7,7 @@
 
  ### 🤖 Linguagens e Tecnologias
 
-[![Skills](https://skillicons.dev/icons?i=typescript,php,java,react,laravel,supabase,mysql,mongodb,bootstrap,tailwindcss,git,docker,html,css)](https://skillicons.dev)<br>
+[![Skills](https://skillicons.dev/icons?i=cs,dotnet,java,php,react,next,laravel,mysql,mongodb,bootstrap,tailwindcss,git,docker,postman)](https://skillicons.dev)<br>
 
 <br>
 <p style="text-align: left; white-space: nowrap;" > 
