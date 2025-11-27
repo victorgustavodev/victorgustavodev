@@ -5,9 +5,14 @@
 [![Linkedin Badge](https://img.shields.io/badge/-Victor%20Gustavo-986DFF?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/victorgs-dev/)](https://www.linkedin.com/in/victorgs-dev/) 
 [![Gmail Badge](https://img.shields.io/badge/-victorgustavo.dev@gmail.com-986DFF?style=flat-square&logo=Gmail&logoColor=white&link=mailto:victorgustavo.dev@gmail.com)](mailto:victorgustavo.dev@gmail.com)
 
- ### 🤖 Linguagens e Tecnologias
+ ## 🤖 Tecnologias e Ferramentas
+ 
+### Frontend
+[![Skills](https://skillicons.dev/icons?i=react,next,vuejs,bootstrap,tailwindcss,figma)](https://skillicons.dev)<br>
 
-[![Skills](https://skillicons.dev/icons?i=java,nest,react,next,laravel,mysql,postgresql,mongodb,bootstrap,tailwindcss,git,docker,postman)](https://skillicons.dev)<br>
+### Backend
+[![Skills](https://skillicons.dev/icons?i=nest,express,postgresql,mongodb,mysql,git,docker,postman)](https://skillicons.dev)<br>
+
 
 <br>
 <p style="text-align: left; white-space: nowrap;" > 
