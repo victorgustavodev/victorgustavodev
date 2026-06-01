@@ -1,24 +1,8 @@
-##  👩🏻‍💻 Victor Gustavo
-
-**`Desenvolvedor FullStack`**
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2000&pause=1000&color=1DF729&width=435&lines=Hi+everyone%2C+welcome+to+my+profile.+;It's+a+pleasure+to+have+you+here.)](https://git.io/typing-svg)
 
 [![Linkedin Badge](https://img.shields.io/badge/-Victor%20Gustavo-986DFF?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/victorgs-dev/)](https://www.linkedin.com/in/victorgs-dev/) 
 [![Gmail Badge](https://img.shields.io/badge/-victorgustavo.dev@gmail.com-986DFF?style=flat-square&logo=Gmail&logoColor=white&link=mailto:victorgustavo.dev@gmail.com)](mailto:victorgustavo.dev@gmail.com)
 
- ## 🤖 Tecnologias e Ferramentas
+<code>Skills and techs</code>
  
-### Frontend
-[![Skills](https://skillicons.dev/icons?i=react,next,vuejs,bootstrap,tailwindcss,figma)](https://skillicons.dev)<br>
-
-### Backend
-[![Skills](https://skillicons.dev/icons?i=nest,express,postgresql,mongodb,mysql,git,docker,postman)](https://skillicons.dev)<br>
-
-
-<br>
-<p style="text-align: left; white-space: nowrap;" > 
-  ⏳ - Sistemas para Internet no Instituto Federal de Pernambuco. (4/6) <br>
-  ✅ - Técnico em Desenvolvimento de sistemas (3/3).
-</p>
-<br>
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=victorgustavodev&layout=compact&langs_count=7&bg_color=0f1a30"/>
+[![Skills](https://skillicons.dev/icons?i=ts,nest,next,react,angular,postgresql,mongodb,mysql,docker)](https://skillicons.dev)<br>
