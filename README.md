@@ -5,4 +5,4 @@
 
 <code>Skills and techs</code>
  
-[![Skills](https://skillicons.dev/icons?i=ts,nest,react,postgresql,docker)](https://skillicons.dev)<br>
+[![Skills](https://skillicons.dev/icons?i=ts,nodejs,nest,react,postgresql,docker,linux)](https://skillicons.dev)<br>
